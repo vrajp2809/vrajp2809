@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vrajp2809
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Machine learning.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Open Projects
 - 📫 How to reach me : vrajp9136@gmail.com
